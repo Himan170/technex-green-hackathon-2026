@@ -1,18 +1,19 @@
 # Technex Green Hackathon 2026
 
 ## Problem Statement
-Smart Campus Net-Zero Model
+Probelm - Waste Segretion
 
 ## Team Members
-- Himan
-- Member 2
-- Member 3
+- Himan Borana
+- Harshvardhan Gupta
+- Asmit Baldi
+- Khwaish Verma
 
 ## Tech Stack
 - Python
 - React
 - Flask
-- MongoDB
+- Cloud
 
 ## Project Structure
 (To be updated)
