@@ -1,4 +1,4 @@
-# ♻️ EcoVision AI — Waste Segregation & Carbon Footprint Analyser
+<img width="1914" height="1008" alt="image" src="https://github.com/user-attachments/assets/766e690f-15f4-409f-9fc0-eadd5085f45a" /># ♻️ EcoVision AI — Waste Segregation & Carbon Footprint Analyser
 
 > **AI-powered computer vision system** that classifies waste into Biodegradable, Recyclable, and Hazardous categories, recommends the correct disposal bin (Indore 6-Bin Model), and estimates carbon footprint reduction potential — all in real-time.
 
@@ -31,14 +31,8 @@ Create a computer vision-based system that:
 | **Device** | GPU (CUDA:0) |
 | **Training Time** | ~117 hours total |
 
-### Model Performance (Final Epoch 40)
 
-| Metric | Box Detection | Mask Segmentation |
-|--------|:------------:|:-----------------:|
-| **Precision** | 36.4% | 35.4% |
-| **Recall** | 79.6% | 70.5% |
-| **mAP@50** | 36.3% | 32.5% |
-| **mAP@50-95** | 31.0% | 24.1% |
+
 
 ### Waste Classes (6 Categories)
 
@@ -269,3 +263,4 @@ Built for promoting smart waste management and supporting circular economy initi
 ## 📄 License
 
 This project is for educational and hackathon purposes.
+
