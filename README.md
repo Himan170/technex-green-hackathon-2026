@@ -18,18 +18,18 @@ Create a computer vision-based system that:
 
 | Parameter | Value |
 |-----------|-------|
-| **Base Architecture** | YOLOv8m-seg (Medium) |
+| **Base Architecture** | YOLOv8m-seg (Medium) | EfficientNet |
 | **Task** | Instance Segmentation |
 | **Input Resolution** | 640×640 |
 | **Training Epochs** | 40 |
-| **Batch Size** | 8 |
+
 | **Optimizer** | Auto (AdamW) |
 | **Learning Rate** | 0.01 → 0.01 (cosine) |
 | **Pretrained Backbone** | ✅ Yes (COCO) |
 | **AMP (Mixed Precision)** | ✅ Enabled |
 | **Augmentations** | Mosaic, Flip, HSV, Scale, RandAugment, Erasing |
 | **Device** | GPU (CUDA:0) |
-| **Training Time** | ~117 hours total |
+
 
 
 
@@ -263,4 +263,5 @@ Built for promoting smart waste management and supporting circular economy initi
 ## 📄 License
 
 This project is for educational and hackathon purposes.
+
 
